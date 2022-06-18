@@ -1,2 +1,2 @@
 # ScreenOutTips
-Unity屏幕外物体位置提示
+统一显示范围外的视线位置提示
